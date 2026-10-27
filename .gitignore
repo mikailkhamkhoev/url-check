@@ -1,0 +1,5 @@
+/urlcheck
+.vscode/
+.idea/
+.DS_Store
+*.exe
